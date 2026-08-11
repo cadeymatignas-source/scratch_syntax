@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "scratch_syntax"
-version = "0.3.1"
+version = "0.4.0"
 authors = [
   { name="Cade", email="cadey.matignas@gmail.com" },
 ]
@@ -16,3 +16,5 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+[project.urls]
+Homepage = "https://github.com/cadeymatignas-source/scratch_syntax"

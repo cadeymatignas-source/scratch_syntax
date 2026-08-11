@@ -9,6 +9,11 @@ def say(text):
     print(text)
 
 
+def say_for_seconds(texty, secs):
+    print(texty)
+    sleep(secs)
+
+
 def ask(question):
     _scratch_data["answer"] = input(question)
     return _scratch_data["answer"]
