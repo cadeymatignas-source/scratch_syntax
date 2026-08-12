@@ -36,10 +36,11 @@ pip install --upgrade scratch_syntax
 
 I also added Github Respitory
 
-
+# Update 0.5.0
+* Added new wait_until() function
 
 # All Functions
 
 ```bash
-say(), ask(), wait(), pick_random_number_from(), stop_all(), add_to_list(), insert_in_list(), delete_from_list(), delete_all_from_list(), replace_from_list(), answer(), say_for_seconds()
+say(), ask(), wait(), pick_random_number_from(), stop_all(), add_to_list(), insert_in_list(), delete_from_list(), delete_all_from_list(), replace_from_list(), answer(), say_for_seconds(), wait_until()
 ```
