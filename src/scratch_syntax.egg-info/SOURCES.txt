@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/scratch_syntax/__init__.py
+src/scratch_syntax/core.py
+src/scratch_syntax.egg-info/PKG-INFO
+src/scratch_syntax.egg-info/SOURCES.txt
+src/scratch_syntax.egg-info/dependency_links.txt
+src/scratch_syntax.egg-info/top_level.txt
