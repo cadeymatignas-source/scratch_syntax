@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-scratch_syntax/__init__.py
-scratch_syntax/core.py
-scratch_syntax.egg-info/PKG-INFO
-scratch_syntax.egg-info/SOURCES.txt
-scratch_syntax.egg-info/dependency_links.txt
-scratch_syntax.egg-info/top_level.txt
