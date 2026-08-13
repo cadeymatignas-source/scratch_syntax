@@ -74,8 +74,7 @@ def forever(actiono):
 
 
 def repeat_until(actionon, condition):
-    while not condition:
+    while True:
         actionon()
-
-
-# For anyone reading the code, I skipped the forever and repeat functions not because I wanted to but because it doesnt work: Cade
+        if condition():
+            break

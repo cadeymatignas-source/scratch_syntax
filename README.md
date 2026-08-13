@@ -2,7 +2,7 @@
 
 ## This is a custom Python library designed make python syntax more like scratch.
 
-## Instalization
+# Installation
 
 ```bash
 
@@ -41,15 +41,17 @@ pip install --upgrade scratch_syntax
 
 ## Update 0.6.0. ReRun's UPDATE!!!
 * The return of classic repeats... in a different way!!!
-* Added new repeat function!!!
+* Added new repeat_until() function!!!
 * Now needs the lambda function. etc:
  ```bash
 
  repeat(lambda: say("hello!"), 5)
+ forever(lambda: say("hiya!"))
+ repeat_until(lambda: say("do you like this?"), condition())
 
  ```
 
-also btw dont forget to put from scratch_syntax import * so the functions run correctly as is
+Also btw don't forget to put from scratch_syntax import * so the functions run correctly as is
  
 # All Functions
 
